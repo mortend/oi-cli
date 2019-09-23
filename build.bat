@@ -1,4 +1,5 @@
 @echo off
+setlocal
 pushd "%~dp0"
 set PATH="%PATH%;%ProgramFiles%\Microsoft Visual Studio\Installer"
 set PATH="%PATH%;%ProgramFiles(x86)%\Microsoft Visual Studio\Installer"
