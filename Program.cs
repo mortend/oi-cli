@@ -84,7 +84,7 @@ namespace Oi
             if (showVersion)
             {
                 WriteLine("TortoiseGit trainer version " + ExeVersion);
-                WriteLine("Copyright (C) 2016 Nazareth");
+                WriteLine("Copyright (C) 2016-present Nazareth");
             }
             else if (showHelp || extra.Count == 0) // Implicit help on root command
                 Help(extra);
