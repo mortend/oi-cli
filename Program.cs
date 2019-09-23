@@ -157,7 +157,7 @@ namespace Oi
                 WriteLine("\"" + tortoise.FileName + "\" " + tortoise.Arguments);
 
             new Process { StartInfo = tortoise }.Start();
-            Thread.Sleep(300);
+            Thread.Sleep(600);
 
             var hWnd = IntPtr.Zero;
 
