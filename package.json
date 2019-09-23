@@ -1,0 +1,30 @@
+{
+  "name": "oi-cli",
+  "version": "1.0.0",
+  "description": "TortoiseGit productivity tool.",
+  "bin": {
+    "oi": "oi.exe"
+  },
+  "scripts": {
+    "build": "cmd /C build.bat"
+  },
+  "files": [
+    "oi.exe"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortend/oi-cli.git"
+  },
+  "keywords": [
+    "git",
+    "tortoisegit",
+    "productivity",
+    "cli"
+  ],
+  "author": "Morten Daniel Fornes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mortend/oi-cli/issues"
+  },
+  "homepage": "https://github.com/mortend/oi-cli#readme"
+}
