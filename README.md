@@ -1,5 +1,8 @@
 # Oi™
 
+[![NPM package](https://img.shields.io/npm/v/oi-cli.svg?style=flat-square)](https://www.npmjs.com/package/oi-cli)
+[![License: MIT](https://img.shields.io/github/license/mortend/oi-cli.svg?style=flat-square)](LICENSE)
+
 > TortoiseGit productivity tool.
 
 ## Install
