@@ -1,6 +1,16 @@
 # Oi™
 
+> TortoiseGit productivity tool.
+
+## Install
+
+```shell
+npm install -g oi-cli
 ```
+
+## Usage
+
+```console
 Usage: oi COMMAND [options] [path ...]
   or   oi --version
 
@@ -78,3 +88,11 @@ TortoiseGit commands:
 Additional arguments to TortoiseGit can be passed using '/arg1 /arg2'.
 See https://tortoisegit.org/docs/tortoisegit/tgit-automation.html for more information.
 ```
+
+## Contributing
+
+Please [report an issue](https://github.com/mortend/oi-cli/issues) if you encounter a problem, or [open a pull request](https://github.com/mortend/oi-cli/pulls) if you make a patch.
+
+## License
+
+MIT
