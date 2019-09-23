@@ -11,6 +11,9 @@
   "files": [
     "oi.exe"
   ],
+  "os": [
+    "win32"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mortend/oi-cli.git"
